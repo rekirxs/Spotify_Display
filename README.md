@@ -2,6 +2,14 @@
 
 A custom design of a working spotify display involving CAD and FIRMWARE
 
+This design is made to have a spotify shortcut in my desk as an extra accesory.
+
+Im using components such as 
+ESP32
+ST7735 Display
+3 Keyboard switches
+Rotary Encoder
+
 ![3D](IMAGES/CAD2.png)
 ![wiring](wiring.png)
 

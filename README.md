@@ -2,7 +2,7 @@
 
 A custom design of a working spotify display involving CAD and FIRMWARE
 
-![3D](IMAGES/CAD.png)
+![3D](IMAGES/CAD2.png)
 ![wiring](wiring.png)
 
 Onshape: https://cad.onshape.com/documents/f169e4631242b541b10ba23a/w/343e9d0f67318a61d52886f7/e/16c6dbc529c8f1c04a9b5ac5?renderMode=0&uiState=6a396909db39404c24669ed3
